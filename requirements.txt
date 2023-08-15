@@ -1,3 +1,6 @@
 Flask
 joblib
 pandas
+text_processing
+scikit-learn
+nltk
